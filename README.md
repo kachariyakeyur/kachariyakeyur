@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Keyur</h1>
-<h3 align="center">Frontend Developer Learner | MERN Beginner 🚀</h3>
+<h3 align="center">Frontend - Backend Developer 🚀</h3>
 
 <p align="center">
 Building modern web apps & learning every day
@@ -10,7 +10,7 @@ Building modern web apps & learning every day
 ## 🌐 Connect with Me
 
 <p align="center">
-<a href="https://github.com/yourusername">GitHub</a> •
+<a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"></a> •
 <a href="#">Portfolio</a> •
 <a href="mailto:youremail@gmail.com">Gmail</a>
 </p>
