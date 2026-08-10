@@ -55,8 +55,9 @@ Building modern web apps & learning every day
 ## 📌 Projects
 
 - Portfolio Website  
-- Todo App  
-- Mini HTML/CSS Projects  
+- iNotebook
+- News App
+- Text Editor
 
 ---
 
