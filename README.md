@@ -47,7 +47,6 @@ Building modern web apps & learning every day
 ## 🚀 About Me
 
 - 🌱 Learning React & Backend  
-- 💻 Building projects daily  
 - 🎯 Goal: Full Stack Developer  
 - ⚡ Love clean UI  
 
@@ -58,18 +57,6 @@ Building modern web apps & learning every day
 - Portfolio Website  
 - Todo App  
 - Mini HTML/CSS Projects  
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" />
-</p>
 
 ---
 
